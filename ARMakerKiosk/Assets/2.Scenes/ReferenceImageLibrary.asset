@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5524036520485896346
+  m_GuidHigh: 7135701141677649835
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5050199266904289754
+      m_GuidHigh: 813657531939868835
+    m_SerializedTextureGuid:
+      m_GuidLow: 14741679311156889579
+      m_GuidHigh: 13989496646509585258
+    m_Size: {x: 0.5625, y: 1}
+    m_SpecifySize: 1
+    m_Name: icecream1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4705267496263776351
+      m_GuidHigh: 17098094251599881389
+    m_SerializedTextureGuid:
+      m_GuidLow: 12714987742478482342
+      m_GuidHigh: 10346742988247214344
+    m_Size: {x: 0.5625, y: 1}
+    m_SpecifySize: 1
+    m_Name: icecream2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4766235995615752590
+      m_GuidHigh: 984660509238196898
+    m_SerializedTextureGuid:
+      m_GuidLow: 15385477604114020306
+      m_GuidHigh: 3347060421203592251
+    m_Size: {x: 0.5625, y: 1}
+    m_SpecifySize: 1
+    m_Name: icecream3
+    m_Texture: {fileID: 0}
