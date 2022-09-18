@@ -737,7 +737,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SerializedLibrary: {fileID: 11400000, guid: 64334691ec5991643a452c8ee93826d1, type: 2}
+  m_SerializedLibrary: {fileID: 11400000, guid: 79b72ca327b83ca46857e26c117f181d, type: 2}
   m_MaxNumberOfMovingImages: 0
   m_TrackedImagePrefab: {fileID: 0}
 --- !u!114 &1457618192
@@ -753,11 +753,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   makeinfos:
-  - imageNmae: icecream1
+  - imageNmae: 1111
     targetObj: {fileID: 1856543438}
-  - imageNmae: icecream2
+  - imageNmae: 2222
     targetObj: {fileID: 448695349}
-  - imageNmae: icecream3
+  - imageNmae: 3333
     targetObj: {fileID: 364008823}
 --- !u!1 &1856543438
 GameObject:
